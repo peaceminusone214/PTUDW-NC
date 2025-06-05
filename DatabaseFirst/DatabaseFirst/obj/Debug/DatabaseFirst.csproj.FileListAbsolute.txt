@@ -1,0 +1,12 @@
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+D:\2113028\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\2113028\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+D:\2113028\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\2113028\DatabaseFirst\DatabaseFirst\obj\Debug\Database.FA409B03.Up2Date
+D:\2113028\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+D:\2113028\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

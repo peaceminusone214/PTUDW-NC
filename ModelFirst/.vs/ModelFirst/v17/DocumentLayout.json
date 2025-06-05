@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2113028\\ModelFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55736AB4-282E-45E1-8545-7D8772EC3133}|ModelFirst\\ModelFirst.csproj|d:\\2113028\\modelfirst\\modelfirst\\wtcmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{55736AB4-282E-45E1-8545-7D8772EC3133}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\wtcmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55736AB4-282E-45E1-8545-7D8772EC3133}|ModelFirst\\ModelFirst.csproj|d:\\2113028\\modelfirst\\modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55736AB4-282E-45E1-8545-7D8772EC3133}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WTCModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\2113028\\ModelFirst\\ModelFirst\\WTCModel.edmx",
+              "RelativeDocumentMoniker": "ModelFirst\\WTCModel.edmx",
+              "ToolTip": "D:\\2113028\\ModelFirst\\ModelFirst\\WTCModel.edmx [Diagram1]",
+              "RelativeToolTip": "ModelFirst\\WTCModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-05T03:37:31.534Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2113028\\ModelFirst\\ModelFirst\\Program.cs",
+              "RelativeDocumentMoniker": "ModelFirst\\Program.cs",
+              "ToolTip": "D:\\2113028\\ModelFirst\\ModelFirst\\Program.cs",
+              "RelativeToolTip": "ModelFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:36:27.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

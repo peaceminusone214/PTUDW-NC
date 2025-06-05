@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2113028\\DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|d:\\2113028\\databasefirst\\databasefirst\\watchthecatmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\watchthecatmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|d:\\2113028\\databasefirst\\databasefirst\\watchthecatmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\watchthecatmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|d:\\2113028\\databasefirst\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|d:\\2113028\\databasefirst\\databasefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{112FE9B1-EDA0-45CB-99FC-74410EC92EF8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchTheCATModel.Context.cs",
+              "DocumentMoniker": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\WatchTheCATModel.Context.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\WatchTheCATModel.Context.cs",
+              "ToolTip": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\WatchTheCATModel.Context.cs",
+              "RelativeToolTip": "DatabaseFirst\\WatchTheCATModel.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:27:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchTheCATModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\WatchTheCATModel.edmx",
+              "RelativeDocumentMoniker": "DatabaseFirst\\WatchTheCATModel.edmx",
+              "ToolTip": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\WatchTheCATModel.edmx [Diagram1]",
+              "RelativeToolTip": "DatabaseFirst\\WatchTheCATModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-05T03:25:29.795Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\App.config",
+              "RelativeDocumentMoniker": "DatabaseFirst\\App.config",
+              "ToolTip": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\App.config",
+              "RelativeToolTip": "DatabaseFirst\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADNAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-05T03:19:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
+              "ToolTip": "D:\\2113028\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:12:34.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
